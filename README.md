@@ -1,5 +1,9 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
+Hi there 👋
 I'm majoring Global business & Technology at Hankuk university of foreign studies. 
+
+
 
 🌱 I’m currently learning
 
