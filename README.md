@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning 
+🌱 I’m currently learning /n
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=appveyor&logoColor=e7f520"/></a>
 
 
