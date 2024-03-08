@@ -1,8 +1,8 @@
 <img src="https://img.shields.io/badge/jgoldstone7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 Hi there 👋
-I'm majoring Global business & Technology at Hankuk university of foreign studies. 
 
+I'm Minseo, majroing in Global business & Technology at HUFS. Backend development enthusiast with a focus on Django, Spring, and AWS technologies. I thrive on architecting scalable solutions and optimizing performance. Currently delving deep into these stacks to craft reliable and efficient backend systems. Let's collaborate on building robust applications for the web! 🚀
 
 
 🌱 I’m currently learning
