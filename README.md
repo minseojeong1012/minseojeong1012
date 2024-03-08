@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=appveyor&logoColor=e7f520"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=appveyor&logoColor=e7f520"/></a>
 
 
 <!--
