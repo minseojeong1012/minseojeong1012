@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/badge/jgoldstone7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-
 Hi there 👋
 
 I'm Minseo, majoring in Global business & Technology at HUFS. 
@@ -15,6 +13,10 @@ Let's collaborate on building robust applications for the web! 🚀
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 
+
+📫 How to reach me:
+
+<img src="https://img.shields.io/badge/jgoldstone7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <!--
 **minseojeong1012/minseojeong1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
