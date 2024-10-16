@@ -1,13 +1,3 @@
-Hi there 👋
-
-I'm Minseo, majoring in Global business & Technology at HUFS. 
-
-Backend development enthusiast with a focus on Django, Spring, and AWS.
-
-Currently delving deep into these stacks to craft reliable and efficient backend systems. 
-
-Let's collaborate on building robust applications for the web! 🚀
-
 
 🌱 I’m currently learning
 
