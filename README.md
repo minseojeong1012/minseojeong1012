@@ -8,6 +8,9 @@
 
 <img src="https://img.shields.io/badge/jgoldstone7@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jgoldstone)](https://solved.ac/jgoldstone)
+
 <!--
 **minseojeong1012/minseojeong1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
